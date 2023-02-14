@@ -5,7 +5,7 @@
 // SE05ContInt
 // a simple C++ file for github practices
 
-#include<iostream?
+#include <iostream>
 using namespace std;
 
 int main(){
